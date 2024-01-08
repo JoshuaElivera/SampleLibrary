@@ -12,5 +12,8 @@ namespace SubmoduleLibrary.Model
         public string Description { get; set; }
         public string Genre { get; set; }
         public string Author { get; set; }
+        public string Athlene { get; set; }
+        public string PreWorkout { get; set; }
+        public string Creatine { get; set; }
     }
 }
